@@ -1,4 +1,4 @@
-package com.rpzsoftware.remaniderapp
+package com.rpzsoftware.remindly
 
 import org.junit.Test
 
